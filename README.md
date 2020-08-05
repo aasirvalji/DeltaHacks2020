@@ -4,10 +4,10 @@
 
 App that assists people with diabetes in better tracking their glucose levels
 
-> Home
+Home
 ![](displayAssets/bwellLanding.jpg)
 
-> Full submission
+Full submission
 https://devpost.com/software/bwell
 
 Backend repository [here](https://github.com/jeverd/deltahacks).
