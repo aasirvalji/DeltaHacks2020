@@ -7,10 +7,7 @@ App that assists people with diabetes in better tracking their glucose levels
 > Home
 ![](displayAssets/bwellLanding.jpg)
 
-> About
-![](displayAssets/bwellAbout.jpeg =100x20)
-
-> Diet tracker
-![](displayAssets/bwellTracker.png)
+> Full submission
+https://devpost.com/software/bwell
 
 Backend repository [here](https://github.com/jeverd/deltahacks).
