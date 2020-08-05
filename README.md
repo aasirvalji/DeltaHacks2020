@@ -4,7 +4,7 @@
 
 App that assists people with diabetes in better tracking their glucose levels
 
-Home
+
 ![](displayAssets/bwellLanding.jpg)
 
 Full submission
