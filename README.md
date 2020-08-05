@@ -8,7 +8,7 @@ App that assists people with diabetes in better tracking their glucose levels
 ![](displayAssets/bwellLanding.jpg)
 
 > About
-![](displayAssets/bwellAbout.jpeg)
+![](displayAssets/bwellAbout.jpeg =100x20)
 
 > Diet tracker
 ![](displayAssets/bwellTracker.png)
